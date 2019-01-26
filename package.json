@@ -1,12 +1,12 @@
 {
-  "name": "aliyun-sdk",
+  "name": "@tuofeng/aliyun-sdk",
   "description": "Aliyun SDK for JavaScript",
-  "version": "1.12.0",
+  "version": "1.12.1",
   "author": {
-    "name": "chylvina",
-    "email": "chylvina@gmail.com"
+    "name": "tuofeng",
+    "email": "github@open.tuofeng.cn"
   },
-  "homepage": "https://github.com/aliyun-UED/aliyun-sdk-js.git",
+  "homepage": "https://github.com/tuofeng-inc/aliyun-sdk-js.git",
   "contributors": [],
   "devDependencies": {
     "coffee-script": "1.6.3",
@@ -49,10 +49,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:aliyun-UED/aliyun-sdk-js.git"
+    "url": "git@github.com:tuofeng-inc/aliyun-sdk-js.git"
   },
   "bugs": {
-    "url": "https://github.com/aliyun-UED/aliyun-sdk-js/issues",
+    "url": "https://github.com/tuofeng-inc/aliyun-sdk-js/issues",
     "mail": ""
   },
   "keywords": [],
