@@ -267,7 +267,7 @@
 						"type": "integer"
 					},
 					"AndroidNotificationChannel": {
-						"type": "integer"
+						"type": "string"
 					},
 					"AndroidExtParameters": {
 						"type": "string"
