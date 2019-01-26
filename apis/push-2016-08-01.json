@@ -266,6 +266,9 @@
 					"AndroidNotificationBarPriority": {
 						"type": "integer"
 					},
+					"AndroidNotificationChannel": {
+						"type": "integer"
+					},
 					"AndroidExtParameters": {
 						"type": "string"
 					},
