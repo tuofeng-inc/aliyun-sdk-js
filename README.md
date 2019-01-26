@@ -3,12 +3,12 @@
 ### Node.js 安装
 
 ```sh
-npm install aliyun-sdk
+npm install @tuofeng/aliyun-sdk
 ```
 
 ### 浏览器端安装
 
-https://github.com/aliyun-UED/aliyun-sdk-js/blob/master/browser.md
+https://github.com/tuofeng-inc/aliyun-sdk-js/blob/master/browser.md
 
 ## 使用方法及代码示例
 
